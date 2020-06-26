@@ -1,7 +1,7 @@
 <?php
 include_once './SuperHeroi.php';
 $Herois = array(
-    new SuperHeroi(01, "Homem de Ferro", "Voa", 151515, 111111  "Laboratorio"),
+    new SuperHeroi(01, "Homem de Ferro", "Voa", 151515, 111111,  "Laboratorio"),
     new SuperHeroi(02, "Thor", "Raio", 111000, 55555, "Venus"),
     new SuperHeroi(03, "Mulher Maravilha", "Chicote", 151718, 50, "Terra"),
     new SuperHeroi(04, "Hulk", "Forca", 8000, 50, "Terra"),
