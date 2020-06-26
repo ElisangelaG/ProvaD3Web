@@ -1,5 +1,5 @@
 <?php
-include_once './SuperHeroi.php';
+include_once './heroi.php';
 $Herois = array(
     new SuperHeroi(01, "Homem de Ferro", "Voa", 151515, 111111,  "Laboratorio"),
     new SuperHeroi(02, "Thor", "Raio", 111000, 55555, "Venus"),
